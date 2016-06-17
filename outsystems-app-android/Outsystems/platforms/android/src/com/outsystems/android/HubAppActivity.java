@@ -195,8 +195,8 @@ public class HubAppActivity extends BaseActivity {
         final Button buttonGO = (Button) findViewById(R.id.button_go);
         buttonGO.setOnClickListener(onClickListener);
 
-        Button buttonDemo = (Button) findViewById(R.id.button_demo);
-        buttonDemo.setOnClickListener(onClickListenerDemo);
+        //Button buttonDemo = (Button) findViewById(R.id.button_demo);
+        //buttonDemo.setOnClickListener(onClickListenerDemo);
 
         ImageButton buttonHelp = (ImageButton) findViewById(R.id.image_button_icon);
         buttonHelp.setOnClickListener(onClickListenerHelp);
