@@ -19,7 +19,7 @@
     <!-- Outsystems colors -->
     <color name="white_color">#fff</color>
     <color name="white_color_alpha">#B3FFFFFF</color>
-    <color name="red_color">#c20</color>
+    <color name="red_color">#314b57</color>
     <color name="hint_color">#ccc</color>
     <color name="button_select_text_color">#4DFFFFFF</color>
     <color name="button_disable">#A3A9BA</color>
