@@ -10,7 +10,7 @@
         android:layout_height="fill_parent">
 
 
-        <com.outsystems.android.core.CustomWebView
+        <com.outsystems.samskipnow.core.CustomWebView
             android:id="@+id/mainView"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
